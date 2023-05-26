@@ -31,13 +31,4 @@ Spring AOP(Aspect Oriented Programming) - 관점 지향 프로그래밍 <br>
   <li>args : 특정 매개변수 형태를 갖는 모든 메소드르 지정</li>
   <li>this : 특정 인터페이스를 구현하는 프록시 객체를 지정</li>
   <li>execution L 표현식으로 형태를 지정하여 간섭</li>
-    <ul>-execution 표현식-
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      
-    </ul>
-	
 </ul>
